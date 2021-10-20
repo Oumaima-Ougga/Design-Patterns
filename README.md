@@ -43,9 +43,11 @@ cette classe,
 4. Proposer une solution pour choisir dynamiquement l’implémentation de calcul de l’IGR
 
  Diagramme de Classe :
+ 
  ![image](https://user-images.githubusercontent.com/56320491/138094291-2ed192d1-7d5b-4a82-8fe3-c4936aebc910.png)
  
  Résultat de l'implementation : 
+ 
  ![image](https://user-images.githubusercontent.com/56320491/138092984-b61877f7-4893-4517-b584-de2bf2544234.png)
 
 ##StationMeteo Pattern Observer
@@ -62,6 +64,7 @@ Il faut créer une application qui fournira d’abord trois affichages: conditio
 De plus cette station météo doit être extensible. MétéoExpress veut commercialiser une API pour que les autres développeurs puissent réaliser leurs propres affichages et les insérer directement. Nous souhaitons que vous nous fournissiez cette API !
 
  Diagramme de Classe :
+ 
 ![image](https://user-images.githubusercontent.com/56320491/138097269-6657ebf0-185d-4228-892e-47c86ca4d12a.png)
 
  Résultat de l'implementation : 
@@ -90,7 +93,9 @@ Résultat :
 Starbuzz Coffee, facturant chacun de ces suppléments, ils ont besoin de les intégrer à leur système de commande.
 
 Solution :
+
  -Diagramme de classe :
+ 
  ![image](https://user-images.githubusercontent.com/56320491/138099419-c45be9ec-5286-41eb-84fd-f50137a2919e.png)
 
  - Résultat de l'implémentation :
@@ -120,10 +125,13 @@ DecrypteInputStream.java
    c. Afficher le texte décrypté
    
 Solution :
+
  -Diagramme de classe :
+ 
  ![image](https://user-images.githubusercontent.com/56320491/138102327-3a8296db-7a4e-4a39-97ab-a0808adfed42.png)
 
  - Résultat de l'implémentation :
+ 
  ![image](https://user-images.githubusercontent.com/56320491/138102403-ce44a563-ba5e-4330-94d2-6c044c0f8f2c.png)
  
  ##PatternComposite
@@ -141,9 +149,11 @@ On s'intérese dans ce projet à implementer une hiérarchie d'un dossier , qui 
 Solution :
 
 -Diagramme de classe :
+
 ![image](https://user-images.githubusercontent.com/56320491/138102942-bb3d633a-d593-4973-a577-847f4b68b815.png)
 
 -Résultat:
+
 ![image](https://user-images.githubusercontent.com/56320491/138103565-8720091f-4d86-4e17-a513-5dd434e4c385.png)
 
 
