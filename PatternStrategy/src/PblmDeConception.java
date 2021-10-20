@@ -16,13 +16,16 @@ public class PblmDeConception {
         pers4.setArme(new ComportementArcEtFleches());
 
         System.out.println("Appliquer le pattern strategy :");
-        System.out.println("1er personner :");
+        System.out.println("1er personne Roi :");
         pers1.combattre();
-        System.out.println("2eme personner :");
+        System.out.println("2eme personne Reine:");
         pers2.combattre();
-        System.out.println("3eme personner :");
+        pers2.setArme(new ComportementArcEtFleches());
+        System.out.println("2eme personne Reine:");
+        pers2.combattre();
+        System.out.println("3eme personne Troll:");
         pers3.combattre();
-        System.out.println("4eme personner :");
+        System.out.println("4eme personne Chevalier:");
         pers4.combattre();
 
     }
