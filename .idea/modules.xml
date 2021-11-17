@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design-Patterns.iml" filepath="$PROJECT_DIR$/.idea/Design-Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExempleDPState/ExempleDPState.iml" filepath="$PROJECT_DIR$/ExempleDPState/ExempleDPState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternAdapter/PatternAdapter.iml" filepath="$PROJECT_DIR$/PatternAdapter/PatternAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternComposite/PatternComposite.iml" filepath="$PROJECT_DIR$/PatternComposite/PatternComposite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternDecorator/PatternDecorator.iml" filepath="$PROJECT_DIR$/PatternDecorator/PatternDecorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternDecorator2/PatternDecorator2.iml" filepath="$PROJECT_DIR$/PatternDecorator2/PatternDecorator2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternObserver/PatternObserver.iml" filepath="$PROJECT_DIR$/PatternObserver/PatternObserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternProxy/PatternProxy.iml" filepath="$PROJECT_DIR$/PatternProxy/PatternProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternState/PatternState.iml" filepath="$PROJECT_DIR$/PatternState/PatternState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternStrategy/PatternStrategy.iml" filepath="$PROJECT_DIR$/PatternStrategy/PatternStrategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternTemplateMethod/PatternTemplateMethod.iml" filepath="$PROJECT_DIR$/PatternTemplateMethod/PatternTemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern_Strategy2/Pattern_Strategy2.iml" filepath="$PROJECT_DIR$/Pattern_Strategy2/Pattern_Strategy2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StationMeteo Pattern Observer/StationMeteo Pattern Observer.iml" filepath="$PROJECT_DIR$/StationMeteo Pattern Observer/StationMeteo Pattern Observer.iml" />
+    </modules>
+  </component>
+</project>
